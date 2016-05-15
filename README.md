@@ -5,7 +5,7 @@ Home: https://github.com/USGS-CIDA/pyGDP
 
 Package license: Public Domain
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: Python interface to facilitate working with USGS-CIDA Geo Data Portal web services
 
@@ -69,6 +69,7 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pygdp-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/pygdp-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/pygdp-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pygdp-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pygdp-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pygdp-feedstock/branch/master)
