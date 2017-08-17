@@ -7,7 +7,7 @@ Package license: Public Domain
 
 Feedstock license: BSD 3-Clause
 
-Summary: Python interface to facilitate working with USGS-CIDA Geo Data Portal web services
+Summary: Python interface to facilitate working with USGS-CIDA Geo Data Portal web services.
 
 
 
