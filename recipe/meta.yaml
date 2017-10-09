@@ -5,8 +5,8 @@ package:
   version: {{ version }}
 
 source:
-  git_url: https://github.com/USGS-CIDA/pyGDP.git
-  git_rev: v{{ version }}
+  url: https://github.com/USGS-CIDA/pyGDP/archive/v{{ version }}.tar.gz
+  sha256: a0489b0fb48b1b9f81fbc6cc0518c8bcb784e69ceb696503463b3685b9dee7e2
 
 build:
   number: 0
